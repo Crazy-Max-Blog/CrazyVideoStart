@@ -53,7 +53,7 @@ void draw() {
     text(s, width/2, si*(0.5+0.35/2+0.05));//height*0.8
   }
   
-  if(i<int(si*(0.35+0.175)) && a==2) {
+  if(i<int(si*(0.35+0.175+0.1)) && a==2) {
     i++;
     background(0);
     ic(l, width/2, height/2, int(si*0.35), int(si*0.35));//int(i/2)
@@ -64,6 +64,7 @@ void draw() {
   } else if(a==2) {
     a=3;
     videoExport.endMovie();
+    exit();
   }
   if(a!=3) videoExport.saveFrame();
 }
