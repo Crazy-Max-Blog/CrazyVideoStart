@@ -20,8 +20,10 @@ void setup() {
   fullScreen();
   l = loadImage("lr.png");
   //ic(loadImage("l.jpg"), width/2, height/2, width, height);
-  videoExport = new VideoExport(this, "hello.mp4");
+  videoExport = new VideoExport(this, "result.mp4");
   videoExport.startMovie();
+  background(0);
+  videoExport.saveFrame();
 }
 
 int i=0;
@@ -63,5 +65,5 @@ void draw() {
     a=3;
     videoExport.endMovie();
   }
-  videoExport.saveFrame();
+  if(a!=3) videoExport.saveFrame();
 }
