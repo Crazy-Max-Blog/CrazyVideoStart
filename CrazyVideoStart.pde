@@ -15,7 +15,7 @@ void setup() {
 int i=0;
 int a=0;
 void draw() {
-  if(i<si*0.75 && a==0) {
+  if(i<si*0.5 && a==0) {
     i++;
     background(0);
     ic(l, width/2, height/2, i, i);
@@ -23,7 +23,7 @@ void draw() {
     a=1;
   }
   
-  if(i>si*0.5 && a==1) {
+  if(i>si*0.25 && a==1) {
     i--;
     background(0);
     ic(l, width/2, height/2, i, i);//int(i/2)
@@ -32,6 +32,6 @@ void draw() {
     textAlign(CENTER, TOP);
     String s="CrazyMax Channel";
     textSize(si*0.5/s.length());
-    text(s, width/2, height*0.8);
+    text(s, width/2, si*(0.5+0.25/2+0.05));//height*0.8
   }
 }
