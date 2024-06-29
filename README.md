@@ -7,7 +7,7 @@
 
 ### Устанавливаем всё
 #### Скачиваем прогу
-  - Скачиваем [архив](https://github.com/Crazy-Max-Blog/CrazyVideoStart/archive/refs/tags/v0.1.zip)
+  - Скачиваем [архив](https://github.com/Crazy-Max-Blog/CrazyVideoStart/archive/refs/heads/main.zip)<!--https://github.com/Crazy-Max-Blog/CrazyVideoStart/archive/refs/tags/v0.1.zip-->
   - Распаковываем архив
   
 #### Скачиваем Processing
