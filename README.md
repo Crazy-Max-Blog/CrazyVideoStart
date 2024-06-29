@@ -14,7 +14,7 @@
   - Выбираем версию под ОС
   
 #### Добавляем либы
-  - Копируем `CrazyVideoStart-main/libs/VideoExport` в `Документы/processing/libraries`
+  - Копируем `CrazyVideoStart-main/libs/VideoExport` в `Документы/Processing/libraries`
 
 ### Настраиваем и запускаем
   - Открываем `CrazyVideoStart-main/src/CrazyVideoStart/CrazyVideoStart.pde`
