@@ -3,6 +3,8 @@
 
 ## Как сделать
 
+[Видосик](https://youtube.com/wacth)
+
 ### Устанавливаем всё
 #### Скачиваем прогу
   - Скачиваем [архив](https://github.com/Crazy-Max-Blog/CrazyVideoStart/archive/refs/tags/v0.1.zip)
