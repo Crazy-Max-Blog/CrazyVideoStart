@@ -1,3 +1,5 @@
+[![latest](https://img.shields.io/github/v/release/Crazy-Max-Blog/CrazyHC595.svg?color=brightgreen)](https://codeload.github.com/Crazy-Max-Blog/CrazyHC595/zip/refs/heads/main)
+
 # CrazyVideoStart
 
 ## Как сделать
