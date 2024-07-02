@@ -1,3 +1,4 @@
+[![latest](https://img.shields.io/github/v/release/Crazy-Max-Blog/CrazyVideoStart.svg?color=brightgreen)](https://github.com/Crazy-Max-Blog/CrazyVideoStart/archive/refs/tags/v0.1)
 [![Foo](https://img.shields.io/badge/page-on%20website-blue.svg?style=flat-square)](https://crazymax.is-a.dev/CrazyVideoStart/docs/v0.1)
 [![Foo](https://img.shields.io/badge/page-on%20github-blue.svg?style=flat-square)](https://github.com/Crazy-Max-Blog/CrazyVideoStart/tree/v0.1)
 
