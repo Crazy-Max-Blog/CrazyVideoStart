@@ -3,7 +3,7 @@
 
 ## Как сделать
 
-[Видосик](https://youtube.com/wacth)
+[Видосик](https://www.youtube.com/watch?v=yxdm4b68FQs)
 
 ### Устанавливаем всё
 #### Скачиваем прогу
