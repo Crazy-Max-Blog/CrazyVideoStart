@@ -1,6 +1,5 @@
-[![latest](https://img.shields.io/github/v/release/Crazy-Max-Blog/CrazyVideoStart.svg?color=brightgreen)](https://codeload.github.com/Crazy-Max-Blog/CrazyVideoStart/zip/refs/heads/main)
-[![Foo](https://img.shields.io/badge/page-on%20website-blue.svg?style=flat-square)](https://crazymax.is-a.dev/Breakout/)
-[![Foo](https://img.shields.io/badge/page-on%20github-blue.svg?style=flat-square)](https://github.com/Crazy-Max-Blog/Breakout/)
+[![Foo](https://img.shields.io/badge/page-on%20website-blue.svg?style=flat-square)](https://crazymax.is-a.dev/CrazyVideoStart/docs/v0.1)
+[![Foo](https://img.shields.io/badge/page-on%20github-blue.svg?style=flat-square)](https://github.com/Crazy-Max-Blog/CrazyVideoStart/tree/v0.1)
 
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20МОЙ%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/crazy_max_2023)
 # CrazyVideoStart
